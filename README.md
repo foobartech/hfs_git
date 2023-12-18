@@ -17,6 +17,7 @@
 |mihomo              |1.17.0                  |
 |minivtun            |20220311-e568606        |
 |minivtun-rs         |0.1.5-9c2fa9e           |
+|n2n                 |3.0.0-d8b02bc           |
 |natmap              |20230820                |
 |openp2p             |3.9.1                   |
 |openvpn             |2.5.7                   |
