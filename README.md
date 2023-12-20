@@ -4,8 +4,7 @@
 |cloudflared         |2023.3.0-8-g9c15f31d    |
 |dsvpn               |0.1.4-68cefaf           |
 |geph4-client        |4.11.0                  |
-|glider              |0.16.3-4f12a4f          |
-|glider_tunnel       |0.16.3-a78d557          |
+|glider              |0.16.3-6ac0880          |
 |gnb                 |1.3.0.c                 |
 |hev-socks5-tproxy   |2.5.1                   |
 |hev-socks5-tunnel   |2.5.1                   |
