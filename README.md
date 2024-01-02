@@ -5,7 +5,7 @@
 |dsvpn               |0.1.4-68cefaf           |
 |geph4-client        |4.11.0                  |
 |glider              |0.16.3-6ac0880          |
-|gnb                 |1.4.5.a-25ff341         |
+|gnb                 |1.4.5.b                 |
 |hev-socks5-tproxy   |2.5.1                   |
 |hev-socks5-tunnel   |2.5.1                   |
 |hysteria            |1.3.5                   |
