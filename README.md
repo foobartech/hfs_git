@@ -9,7 +9,7 @@
 |hev-socks5-tproxy   |2.5.1                   |
 |hev-socks5-tunnel   |2.5.1                   |
 |hysteria            |1.3.5                   |
-|hysteria2           |2.2.1                   |
+|hysteria2           |2.2.3                   |
 |juicity             |0.3.0                   |
 |leaf                |0.10.7-fcb0879          |
 |mieru               |1.13.0                  |
