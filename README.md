@@ -22,7 +22,7 @@
 |openvpn             |2.5.7                   |
 |phantun             |0.6.0-6c42f02           |
 |qtun                |0.2.0-db2e18c           |
-|sing-box            |1.7.7                   |
+|sing-box            |1.8.0                   |
 |smartdns            |1.2023.43               |
 |softethervpn        |4.38-9760               |
 |softethervpn5       |2023-07-05-eb785e08     |
