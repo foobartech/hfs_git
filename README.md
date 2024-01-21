@@ -7,7 +7,7 @@
 |glider              |0.16.3-6ac0880          |
 |gnb                 |1.4.5.b                 |
 |hev-socks5-tproxy   |2.5.3                   |
-|hev-socks5-tunnel   |2.5.1                   |
+|hev-socks5-tunnel   |2.6.6                   |
 |hysteria            |1.3.5                   |
 |hysteria2           |2.2.3                   |
 |juicity             |0.3.0                   |
