@@ -11,7 +11,7 @@
 |hysteria            |1.3.5                   |
 |hysteria2           |2.2.3                   |
 |juicity             |0.3.0                   |
-|leaf                |0.10.7-fcb0879          |
+|leaf                |0.10.8                  |
 |mieru               |1.13.0                  |
 |mihomo              |1.18.0                  |
 |minivtun            |20220311-e568606        |
