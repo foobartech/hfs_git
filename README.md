@@ -12,7 +12,7 @@
 |hysteria2           |2.2.3                   |
 |juicity             |0.3.0                   |
 |leaf                |0.10.8                  |
-|mieru               |2.3.0                   |
+|mieru               |2.3.1                   |
 |mihomo              |1.18.0                  |
 |minivtun            |20220311-e568606        |
 |minivtun-rs         |0.1.5-9c2fa9e           |
