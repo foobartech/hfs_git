@@ -32,5 +32,5 @@
 |trojan-rust         |0.7.3-a3db5c5           |
 |tuic                |1.0.0-0acf484           |
 |vnt                 |1.2.6                   |
-|xray                |1.8.3                   |
+|xray                |1.8.8                   |
 |zerotier-one        |1.12.2                  |
