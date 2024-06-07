@@ -18,7 +18,7 @@
 |ipt2socks           |1.1.4                   |
 |juicity             |0.4.3                   |
 |leaf                |0.10.13                 |
-|mieru               |3.0.1                   |
+|mieru               |3.2.0                   |
 |mihomo              |1.18.5                  |
 |minivtun            |20220311-e568606        |
 |minivtun-rs         |0.1.6-6e3b05b           |
