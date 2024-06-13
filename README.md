@@ -33,7 +33,7 @@
 |qtun                |0.2.0-db2e18c           |
 |quincy              |0.9.3                   |
 |sing-box            |1.9.0                   |
-|smartdns            |1.2024.45               |
+|smartdns            |1.2024.46               |
 |softethervpn        |4.38-9760               |
 |softethervpn5       |2023-07-05-eb785e08     |
 |swgp-go             |1.5.0                   |
