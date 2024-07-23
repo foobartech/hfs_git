@@ -43,5 +43,5 @@
 |vnt                 |1.2.9                   |
 |warp-plus           |1.2.1                   |
 |wstunnel            |9.6.2                   |
-|xray                |1.8.13                  |
+|xray                |1.8.21                  |
 |zerotier-one        |1.14.0                  |
