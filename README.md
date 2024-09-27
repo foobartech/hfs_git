@@ -48,4 +48,4 @@
 |warp-plus           |1.2.4                   |
 |wstunnel            |10.1.0                  |
 |xray                |1.8.24                  |
-|zerotier-one        |1.14.0                  |
+|zerotier-one        |1.14.1                  |
