@@ -39,7 +39,7 @@
 |smartdns            |1.2024.46               |
 |softethervpn        |4.38-9760               |
 |softethervpn5       |2023-07-05-eb785e08     |
-|swgp-go             |1.5.0                   |
+|swgp-go             |1.6.0                   |
 |trojan-oxide        |20221127-b26e472        |
 |trojan-rust         |0.7.3-a3db5c5           |
 |tuic                |1.0.0-0acf484           |
