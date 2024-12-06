@@ -40,6 +40,7 @@
 |softethervpn        |4.38-9760               |
 |softethervpn5       |2023-07-05-eb785e08     |
 |swgp-go             |1.6.0                   |
+|tls-shunt-proxy     |0.8.1                   |
 |trojan-oxide        |20221127-b26e472        |
 |trojan-rust         |0.7.3-a3db5c5           |
 |tuic                |1.0.0-0acf484           |
