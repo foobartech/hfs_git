@@ -2,7 +2,7 @@
 |-                   |-                       |
 |boringtun-cli       |0.6.0-f672bb6           |
 |caddy               |2.7.6                   |
-|chinadns-ng         |2024.10.14              |
+|chinadns-ng         |2024.12.22              |
 |clash               |1.18.0                  |
 |cloudflared         |2023.3.0-8-g9c15f31d    |
 |dae                 |0.9.0                   |
