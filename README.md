@@ -45,7 +45,7 @@
 |trojan-oxide        |20221127-b26e472        |
 |trojan-rust         |0.7.3-a3db5c5           |
 |tuic                |1.0.0-0acf484           |
-|vnt                 |1.2.9                   |
+|vnt                 |1.2.15                  |
 |vpncloud            |2.4.0-bef9916           |
 |warp-plus           |1.2.4                   |
 |wstunnel            |10.1.0                  |
