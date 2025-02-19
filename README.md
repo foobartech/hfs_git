@@ -1,5 +1,6 @@
 |name                |version                 |
 |-                   |-                       |
+|anytls              |0.0.3                   |
 |boringtun-cli       |0.6.0-f672bb6           |
 |caddy               |2.7.6                   |
 |chinadns-ng         |2024.12.22              |
