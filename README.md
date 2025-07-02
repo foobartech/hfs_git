@@ -19,7 +19,7 @@
 |hysteria            |1.3.5                   |
 |hysteria2           |2.5.1                   |
 |ipt2socks           |1.1.4                   |
-|juicity             |0.4.3                   |
+|juicity             |0.5.0                   |
 |leaf                |0.10.13                 |
 |mieru               |3.3.2                   |
 |mihomo              |1.18.5                  |
