@@ -40,7 +40,7 @@
 |shadowsocks-libev   |3.3.5                   |
 |shadowsocks-rust    |1.20.4                  |
 |sing-box            |1.12.1                  |
-|smartdns            |1.2024.46               |
+|smartdns            |1.2025.47               |
 |softethervpn        |4.38-9760               |
 |softethervpn5       |2023-07-05-eb785e08     |
 |swgp-go             |1.6.0                   |
