@@ -53,5 +53,5 @@
 |vpncloud            |2.4.0-bef9916           |
 |warp-plus           |1.2.4                   |
 |wstunnel            |10.1.0                  |
-|xray                |25.3.31                 |
+|xray                |25.10.15                |
 |zerotier-one        |1.14.1                  |
