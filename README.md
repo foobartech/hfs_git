@@ -48,7 +48,7 @@
 |trojan-oxide        |20221127-b26e472        |
 |trojan-rust         |0.7.3-a3db5c5           |
 |tuic                |1.0.0-0acf484           |
-|usque               |1.4.0                   |
+|usque               |1.4.2                   |
 |vnt                 |1.2.16                  |
 |vpncloud            |2.4.0-bef9916           |
 |warp-plus           |1.2.4                   |
