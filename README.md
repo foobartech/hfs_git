@@ -23,7 +23,7 @@
 |juicity             |0.5.0                   |
 |leaf                |0.10.13                 |
 |mieru               |3.3.2                   |
-|mihomo              |1.19.15                 |
+|mihomo              |1.19.18                 |
 |minivtun            |20220311-e568606        |
 |minivtun-rs         |0.1.6-6e3b05b           |
 |n2n                 |3.0.0-d8b02bc           |
