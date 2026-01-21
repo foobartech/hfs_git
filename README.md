@@ -18,7 +18,7 @@
 |hev-socks5-tproxy   |2.5.4                   |
 |hev-socks5-tunnel   |2.6.9                   |
 |hysteria            |1.3.5                   |
-|hysteria2           |2.5.1                   |
+|hysteria2           |2.7.0                   |
 |ipt2socks           |1.1.4                   |
 |juicity             |0.5.0                   |
 |leaf                |0.10.13                 |
