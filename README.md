@@ -36,7 +36,7 @@
 |psiphon-tunnel-core |2.0.31-96d0a82b         |
 |qtun                |0.2.0-db2e18c           |
 |quincy              |0.9.3                   |
-|shadowquic          |0.2.0                   |
+|shadowquic          |0.3.2                   |
 |shadowsocks-libev   |3.3.5                   |
 |shadowsocks-rust    |1.20.4                  |
 |sing-box            |1.12.19                 |
