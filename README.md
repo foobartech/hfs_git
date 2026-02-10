@@ -11,7 +11,7 @@
 |easytier            |2.4.3                   |
 |geph4-client        |4.11.0                  |
 |glider              |0.17.0-2583448          |
-|gnb                 |1.6.0.a                 |
+|gnb                 |1.6.0.d                 |
 |gonc                |2.4.10                  |
 |go-stun             |0.1.5                   |
 |hev-socks5-server   |2.6.5                   |
