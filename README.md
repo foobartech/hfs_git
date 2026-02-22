@@ -21,7 +21,7 @@
 |hysteria2           |2.7.0                   |
 |ipt2socks           |1.1.4                   |
 |juicity             |0.5.0                   |
-|leaf                |0.13.0                  |
+|leaf                |0.14.0                  |
 |mieru               |3.3.2                   |
 |mihomo              |1.19.20                 |
 |minivtun            |20220311-e568606        |
