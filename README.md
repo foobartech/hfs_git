@@ -43,7 +43,7 @@
 |smartdns            |1.2025.47               |
 |softethervpn        |4.38-9760               |
 |softethervpn5       |2023-07-05-eb785e08     |
-|swgp-go             |1.6.0                   |
+|swgp-go             |1.9.0                   |
 |tls-shunt-proxy     |0.9.3                   |
 |trojan-oxide        |20221127-b26e472        |
 |trojan-rust         |0.7.3-a3db5c5           |
