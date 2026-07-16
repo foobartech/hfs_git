@@ -39,7 +39,7 @@
 |shadowquic          |0.3.3                   |
 |shadowsocks-libev   |3.3.5                   |
 |shadowsocks-rust    |1.20.4                  |
-|sing-box            |1.13.11                 |
+|sing-box            |1.13.14                 |
 |smartdns            |48.2                    |
 |softethervpn        |4.38-9760               |
 |softethervpn5       |2023-07-05-eb785e08     |
