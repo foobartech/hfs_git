@@ -55,4 +55,4 @@
 |warp-plus           |1.2.4                   |
 |wstunnel            |10.1.0                  |
 |xray                |25.10.15                |
-|zerotier-one        |1.14.1                  |
+|zerotier-one        |1.16.2                  |
