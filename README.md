@@ -51,6 +51,7 @@
 |tuic-Itsusinn       |1.8.11                  |
 |usque               |1.4.2                   |
 |vnt                 |1.2.16                  |
+|vnt2                |2.0.2                   |
 |vpncloud            |2.4.0-bef9916           |
 |warp-plus           |1.2.4                   |
 |wstunnel            |10.1.0                  |
