@@ -6,7 +6,7 @@
 |chinadns-ng         |2025.08.09              |
 |clash               |1.18.0                  |
 |cloudflared         |2023.3.0-8-g9c15f31d    |
-|dae                 |0.9.0                   |
+|dae                 |2.0.0                   |
 |dsvpn               |0.1.4-68cefaf           |
 |easytier            |2.4.3                   |
 |geph4-client        |4.11.0                  |
