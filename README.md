@@ -17,6 +17,7 @@
 |hev-socks5-server   |2.6.5                   |
 |hev-socks5-tproxy   |2.5.4                   |
 |hev-socks5-tunnel   |2.6.9                   |
+|honk-core           |0.0.1.beta.61           |
 |hysteria            |1.3.5                   |
 |hysteria2           |2.12.1                  |
 |ipt2socks           |1.1.4                   |
