@@ -33,7 +33,7 @@
 |openp2p             |3.9.1                   |
 |openvpn             |2.5.7                   |
 |overtls             |0.2.33                  |
-|phantun             |0.6.0-6c42f02           |
+|phantun             |0.8.1                   |
 |psiphon-tunnel-core |2.0.31-96d0a82b         |
 |qtun                |0.2.0-db2e18c           |
 |quincy              |0.9.3                   |
