@@ -53,7 +53,7 @@
 |usque               |1.4.2                   |
 |vnt                 |1.2.16                  |
 |vnt2                |2.0.6                   |
-|vnts2               |2.0.3                   |
+|vnts2               |2.0.4                   |
 |vpncloud            |2.4.0-bef9916           |
 |warp-plus           |1.2.4                   |
 |wstunnel            |10.1.0                  |
