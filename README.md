@@ -19,7 +19,7 @@
 |hev-socks5-tunnel   |2.6.9                   |
 |honk-core           |0.0.1.beta.78           |
 |hysteria            |1.3.5                   |
-|hysteria2           |2.12.1                  |
+|hysteria2           |2.12.3                  |
 |ipt2socks           |1.1.4                   |
 |juicity             |0.5.0                   |
 |leaf                |0.14.0                  |
