@@ -59,4 +59,5 @@
 |wstunnel            |10.1.0                  |
 |xray                |25.10.15                |
 |zerotier-one        |1.16.2                  |
+|zray                |0.2.0                   |
 |zuicity             |0.5.0                   |
